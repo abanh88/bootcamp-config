@@ -92,7 +92,6 @@ bootstrap:
                 idp-source-id: dcb21421-a526-4b06-a60c-a3479dc5192a
                 idp-source-name: bootcamp-48-prod-uc-001-oee-read
 
-
     namespaces:
         # Typical config will have a namespace for data sources ("src") and a namespace for use cases ("uc")
         - ns-name: src
